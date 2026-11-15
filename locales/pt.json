@@ -1,0 +1,30 @@
+{
+  "keybind": "Alvo: interagir com pessoas, veículos e locais",
+  "keybindPick": "Alvo: escolher opção {number}",
+  "page": {
+    "back": "Voltar",
+    "hold": "Manter",
+    "cursor": "Clique para cursor",
+    "select": "Escolher",
+    "done": "Feito",
+    "failed": "Falhou",
+    "empty": "Nada aqui",
+    "reason": {
+      "job": "Emprego errado",
+      "gang": "Gangue errada",
+      "duty": "Entra em serviço primeiro",
+      "items": "Faltam itens",
+      "vehicle": "Não daqui",
+      "cooldown": "Em espera",
+      "busy": "Ocupado"
+    },
+    "error": {
+      "invalid_args": "Não é possível",
+      "not_found": "Já não existe",
+      "no_permission": "Não permitido",
+      "rate_limited": "Demasiado rápido",
+      "timeout": "Sem resposta",
+      "internal_error": "Algo correu mal"
+    }
+  }
+}

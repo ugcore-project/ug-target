@@ -1,0 +1,30 @@
+{
+  "keybind": "Target: aim at people, vehicles and places",
+  "keybindPick": "Target: pick option {number}",
+  "page": {
+    "back": "Back",
+    "hold": "Hold",
+    "cursor": "Click for cursor",
+    "select": "Select",
+    "done": "Done",
+    "failed": "Failed",
+    "empty": "Nothing here",
+    "reason": {
+      "job": "Wrong job",
+      "gang": "Wrong gang",
+      "duty": "Go on duty first",
+      "items": "Missing items",
+      "vehicle": "Not from here",
+      "cooldown": "Cooling down",
+      "busy": "Busy"
+    },
+    "error": {
+      "invalid_args": "Not possible",
+      "not_found": "Gone",
+      "no_permission": "Not allowed",
+      "rate_limited": "Too fast",
+      "timeout": "No answer",
+      "internal_error": "Something went wrong"
+    }
+  }
+}
